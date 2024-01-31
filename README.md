@@ -1,0 +1,3 @@
+# Construindo um Componente Angular com Storybook Design System
+
+Neste desafio técnico, você terá a oportunidade de construir um componente de uma aplicação Angular utilizando os componentes definidos em um Storybook Design System. O objetivo é demonstrar sua habilidade em integrar componentes de um design system em um aplicativo Angular e garantir que eles funcionem de maneira consistente e estilizada.
